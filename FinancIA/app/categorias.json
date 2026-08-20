@@ -1,0 +1,13 @@
+{
+  "Compras": ["shopee", "shein", "amazon", "mercado livre", "magalu", "aliexpress", "lojas americanas"],
+  "Mercado": ["doma supermercados", "mercado doda", "supermercado", "acougue", "hortifruti", "padaria"],
+  "Alimentação": ["ifood", "restaurante", "lanchonete"],
+  "Transporte": ["uber", "99", "auto posto", "posto central", "combustivel", "estacionamento", "onibus", "metro", "pedagio"],
+  "Moradia": ["aluguel", "condominio", "companhia piratininga", "energia", "gas natural", "agua", "telefonica", "internet", "iptu"],
+  "Lazer": ["cinepolis", "cinema", "netflix", "spotify", "steam", "bar", "show", "ingresso", "shopping cent"],
+  "Saúde": ["farmacia", "drogaria", "consulta", "plano de saude", "academia", "psicologa", "psicologo"],
+  "Assinaturas": ["assinatura", "mensalidade"],
+  "Doações": ["igreja", "dizimo", "oferta"],
+  "Impostos": ["ministerio da fazenda", "receita federal", "darf", "gnre"],
+  "Financiamentos": ["financiamentos", "financiamento"]
+}
